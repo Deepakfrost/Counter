@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  float: 2;
+  flex-direction: column;
+}
+.card {
+  margin-top: 20%;
+  width: 10rem;
+  height: 13rem;
+  align-items: center;
+  justify-content: center;
+  border: 7px solid;
+  margin-left: 42%;
+  flex: 1;
+  border-radius: 20px;
+  padding: 0px 26px 2rem 26px;
+  box-shadow: 0px 20px 24px 3px rgba(251, 161, 40, 0.42);
+}
+.btn {
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+  margin-top: 3rem;
+  justify-content: space-between;
+}
