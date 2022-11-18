@@ -25,3 +25,12 @@
   margin-top: 3rem;
   justify-content: space-between;
 }
+@media screen and (max-width: 740px) {
+  .card {
+    width: 100px;
+    margin-left: 120px;
+  }
+  .btn {
+    margin-left: 30px;
+  }
+}
